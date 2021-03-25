@@ -1,0 +1,25 @@
+import numpy as np
+import math
+import pygame
+time = 0
+g = float(input("Inserire il valore dell'accelerazione gravitazionale: "))
+L = float(input("Inserire la lunghezza del filo in millimetri: "))
+theta_max = math.radians(float(input("Inserire l'angolo iniziale in gradi: ")))
+pygame.init()
+window = pygame.display.set_mode([15+int(L), int(L)+15])
+pygame.display.set_caption("Pendolo")
+
+run = True
+while run:
+    time += 0.01
+    theta = theta_max*math.cos(math.sqrt(g/L)*time)
+    window.fill((0,0,0))
+    x = (int(L)+15)/2+L*math.sin(theta)
+    y = L*math.cos(theta)
+    pygame.draw.circle(window,(255,255,255),(x,y),15.0)
+    pygame.draw.line(window,(255,255,255),(300,0),(x,y))
+    for event in pygame.event.get():
+        if event.type == pygame.QUIT:
+            run = False
+    pygame.display.update()
+pygame.quit()
