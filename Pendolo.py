@@ -143,7 +143,7 @@ def simulatore(g,L,Omega,t0):
         pygame.draw.line(window,(255,255,255),(615,0),(x,y))
 
         l_filo = myfont.render(("L = {} m".format(round(L,3))),0,(255,255,255))
-        T_testo = myfont.render(("T = {} s".format(round(math.sqrt(g/L),3))),0,(255,255,255))
+        T_testo = myfont.render(("T = {} s".format(round(2*math.pi*math.sqrt(L/g),3))),0,(255,255,255))
         angolo_testo = myfont.render(("Omega = {}°".format(round(Omega,3))),0,(255,255,255))
 
         window.blit(l_filo,(1000,40))
