@@ -7,7 +7,7 @@ oscillatore armonico, Achille e la Tartaruga, pendolo, pendolo di Newton e urto 
 A set of Python simulators to study classical dynamics: 
 vertical falling, circular motion, parabolic motion, rectilinear motion damped exponentially, 
 uniform rectilinear motion, uniformly accelerated two-dimensional motion, harmonic oscillator, 
-Achilles and the tortoise, pendulum, Newton's pendulum and one-dimensional collision.
+Achilles and the tortoise, pendulum, Newton's cradle and one-dimensional collision.
 
 I simulatori partono dall’esigenza di approfondimento 
 nata durante le lezioni di fisica del secondo anno di liceo scientifico.
