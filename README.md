@@ -1,4 +1,4 @@
-# Physics-Motion-Simulators
+# Physics-Motion-Simulators (Progetto esposto al Maker Faire Rome 2021)
 Una collezione di simulatori in Python per studiare la dinamica classica: 
 moto circolare, moto parabolico, moto rettilineo smorzato esponenzialmente, 
 moto rettilineo uniforme, moto bidimensionale uniformemente accelerato, 
