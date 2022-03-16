@@ -9,6 +9,8 @@ vertical falling, circular motion, parabolic motion, rectilinear motion damped e
 uniform rectilinear motion, uniformly accelerated two-dimensional motion, harmonic oscillator, 
 Achilles and the tortoise, pendulum, Newton's cradle and one-dimensional collision.
 
+<img src="https://images.wsj.net/im-318904?width=860&height=571" width="430" height="262" />
+
 I simulatori partono dall’esigenza di approfondimento 
 nata durante le lezioni di fisica del secondo anno di liceo scientifico.
 La pandemia ha reso impossibile qualsiasi tipo di esperienza diretta di laboratorio 
