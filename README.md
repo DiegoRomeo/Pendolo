@@ -24,5 +24,5 @@ non solo di personalizzare quanto già realizzato, ma anche di aggiungere ulteri
 A tal fine si rende disponibilie il codice sorgente.
 
 ```
-Progetto esposto al Maker Faire Rome 2021
+Project exhibited at Maker Faire Rome 2021
 ```
