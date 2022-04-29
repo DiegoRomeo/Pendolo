@@ -1,4 +1,5 @@
 # Physics-Motion-Simulators 
+![preview](https://github.com/DiegoRomeo/Physics-Motion-Simulators/blob/main/preview.JPG?raw=true)
 Una collezione di simulatori in Python per studiare la dinamica classica: 
 moto circolare, moto parabolico, moto rettilineo smorzato esponenzialmente, 
 moto rettilineo uniforme, moto bidimensionale uniformemente accelerato, 
@@ -8,8 +9,6 @@ A set of Python simulators to study classical dynamics:
 vertical falling, circular motion, parabolic motion, rectilinear motion damped exponentially, 
 uniform rectilinear motion, uniformly accelerated two-dimensional motion, harmonic oscillator, 
 Achilles and the tortoise, pendulum, Newton's cradle and one-dimensional collision.
-
-<img src="https://images.wsj.net/im-318904?width=860&height=571" width="430" height="262" />
 
 I simulatori partono dall’esigenza di approfondimento 
 nata durante le lezioni di fisica del secondo anno di liceo scientifico.
@@ -24,4 +23,6 @@ non solo di personalizzare quanto già realizzato, ma anche di aggiungere ulteri
 
 A tal fine si rende disponibilie il codice sorgente.
 
-(Progetto esposto al Maker Faire Rome 2021)
+```
+Progetto esposto al Maker Faire Rome 2021
+```
